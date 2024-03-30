@@ -1,4 +1,4 @@
-# Spotify-App-
+# SpotiStats-
 
 The Spotify App project is a Flask-based web application offering streamlined Spotify integration. Users authenticate securely, obtaining access tokens for their Spotify accounts. The app's key features include managing "Discover Weekly" playlists – saving them to a playlist named "Saved Weekly" – and retrieving total saved tracks.
 
